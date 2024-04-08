@@ -1,0 +1,7 @@
+streamlit
+moviepy
+pydub
+requests
+json5
+wave
+vosk
